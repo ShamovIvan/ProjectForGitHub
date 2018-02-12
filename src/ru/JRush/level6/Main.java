@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello word");
         System.out.println("Second commit");
         System.out.println("Bla-Bla");
+        User u = new User();
+        
     }
 }
