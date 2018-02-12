@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Bla-Bla");
         User u = new User();
-        
+
     }
 }
